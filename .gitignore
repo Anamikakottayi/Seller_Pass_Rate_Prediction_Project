@@ -1,0 +1,4 @@
+pro/
+__pycache__/
+*.pyc
+*.csv
