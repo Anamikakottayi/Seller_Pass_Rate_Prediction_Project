@@ -1,4 +1,4 @@
-# Seller_Score_Prediction_Project
+# Seller_Pass_rate_Prediction_Project
 A machine learning model that predicts seller performance scores using historical sales data helping businesses identify top performers and optimize their sales force. The model has R² of about 0.78 on held-out test data using Random Forest Regressor, up from 0.17 for a linear regression baseline.
 ## Technologies Used
 - Python
