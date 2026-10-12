@@ -1,5 +1,5 @@
-# Salesman_Score_Prediction_Project
-A machine learning model that predicts salesman performance scores using historical sales data helping businesses identify top performers and optimize their sales force. The model has R² of about 0.78 on held-out test data using Random Forest Regressor, up from 0.17 for a linear regression baseline.
+# Seller_Score_Prediction_Project
+A machine learning model that predicts seller performance scores using historical sales data helping businesses identify top performers and optimize their sales force. The model has R² of about 0.78 on held-out test data using Random Forest Regressor, up from 0.17 for a linear regression baseline.
 ## Technologies Used
 - Python
 - NumPy
@@ -32,7 +32,7 @@ The visualization shows that seller experience has a significant impact on selle
 
 
 ## Output
-The model predicts salesman score based on given input data.  
+The model predicts seller score based on given input data.  
 
 ## Future Improvements
 - Improve accuracy
